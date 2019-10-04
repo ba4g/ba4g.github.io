@@ -1,4 +1,4 @@
-## BioSB Algorithms for Genomics Course (BA4G) - Overview
+## BioSB Algorithms for Genomics Course (BA4G)
 
 ### Computer requirements
 
