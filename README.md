@@ -18,7 +18,7 @@
 | 15:30 | Literature seminar          |
 | 17:30 | Closing                     |
 
-|       | Day 2\: Read alignment       |
+|Day 2  | Read alignment       |
 |------:|-----------------------------|
 |  9:00 | Welcome                     |
 |  9:30 | Lecture                     |
@@ -30,7 +30,7 @@
 | 15:30 | Literature seminar          |
 | 17:30 | Closing                     |
 
-|       | Day 3\: Project              |
+|Day 3  |Project              |
 |------:|-----------------------------|
 |  9:00 | Project introduction        |
 |  9:30 | Project work                |
@@ -38,7 +38,7 @@
 | 13:30 | Project work                |
 | 17:30 | Closing                     |
 
-|       | Day 4\: Pan-genomics         |
+|Day 4  |Pan-genomics         |
 |------:|-----------------------------|
 |  9:00 | Welcome                     |
 |  9:30 | Lecture                     |
@@ -50,7 +50,7 @@
 | 15:30 | Literature seminar          |
 | 17:30 | Closing                     |
 
-|       | Day 5                       |
+|Day 5  | |
 |------:|-----------------------------|
 |  9:00 | Welcome                     |
 |  9:30 | Project work                |
