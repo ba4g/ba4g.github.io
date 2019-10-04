@@ -3,6 +3,7 @@
 ### Computer requirements
 
 ### Exercises on Rosalind
+Programming exercises are on the Rosalind [course page](http://rosalind.info/classes/614/) 
 
 ### Schedule
 
