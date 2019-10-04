@@ -6,7 +6,7 @@
 
 ### Schedule
 
-|Day 1\:| Genome assembly      |
+|Day 1  | Genome assembly      |
 |------:|-----------------------------|
 |  9:00 | Welcome                     |
 |  9:30 | Lecture                     |
