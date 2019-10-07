@@ -80,8 +80,8 @@ On day 1 and 2, the course covers chapters 3 and 9 from the book ["Bioinformatic
 On days 1,2 and 4, we will have literature review sessions. For each day we selected a small number of papers. One is a more methods oriented, while the other is a review article. You are expected to read both these papers thoroughly. For the methods paper we expect you are able to discuss the method details.
 
 | Day | Topic | Papers | 
-|------:|-----------------------------|--|
-| Day 1 | Assembly           | https://academic.oup.com/bioinformatics/article/32/14/2103/1742895/ <br> https://www.ncbi.nlm.nih.gov/pubmed/27742661 |                                             |
+|------|-----------------------------|--|
+| Day 1 | Assembly           | https://academic.oup.com/bioinformatics/article/32/14/2103/1742895/ <br> https://www.ncbi.nlm.nih.gov/pubmed/27742661 |
 | Day 2 | Indexed Alignment  | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4108431/pdf/nihms-605372.pdf <br> https://www.ncbi.nlm.nih.gov/pubmed/19451168 |
 | Day 4 | Pan-genomics       | https://www.ncbi.nlm.nih.gov/pubmed/27769991 <br> https://www.ncbi.nlm.nih.gov/pubmed/30125266  |
 
