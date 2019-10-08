@@ -9,9 +9,9 @@
 | 10:30 | Break                       |
 | 11:00 | Programming exercises       |
 | 12:30 | Lunch                       |
-| 13:30 | Programming exercises       |
+| 13:30 | Literature seminar          |
 | 15:00 | Break                       |
-| 15:30 | Literature seminar          |
+| 15:30 | Programming exercises       |
 | 17:30 | Closing                     |
 
 |Day 2  | Read alignment       |
@@ -19,9 +19,9 @@
 |  8:55 | Welcome                     |
 |  9:00 | Lecture                     |
 | 10:30 | Break                       |
-| 11:00 | Literature seminar          |
+| 11:00 | Programming exercises       |
 | 12:30 | Lunch                       |
-| 13:30 | Programming exercises       |
+| 13:30 | Literature seminar          |
 | 15:00 | Break                       |
 | 15:30 | Programming exercises       |
 | 17:00 | Exercise review             |
@@ -57,7 +57,7 @@
 | 14:10 | Talk\: Sandra Smit  |
 | 14:30 | Talk\: Thomas Abeel         |
 | 14:50 | Quick break                 |
-| 15:00 | Panel discussion -- Wrap-up |
+| 15:00 | State-of-the-art literature presentations -- Wrap-up |
 | 16:00 | Borrel                      |
 | 17:00 | The End                     |
 
