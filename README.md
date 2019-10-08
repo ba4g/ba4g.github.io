@@ -1,5 +1,18 @@
 # BioSB Algorithms for Genomics Course (BA4G)
 
+October 14-18, 2019, Delft
+
+Coordinators: Thomas Abeel (TU Delft), Sandra Smit (WUR) and Alexander Schoenhuth (CWI)
+
+## Location
+
+The course takes place in the Social Data Lab room of the Mathematics & Computer Science (EEMCS) building at TU Delft. This room is located immediately to your right, before the reception-desk when you enter the building from the front.
+
+### Travel instructions
+You can find instructions for travel [here](https://iamap.tudelft.nl/en/poi/mathematics-computer-science-eemcs/)
+
+
+
 ## Schedule
 
 |Day 1  | Genome assembly      |
@@ -84,11 +97,6 @@ On days 1,2 and 4, we will have literature review sessions. For each day we sele
 | Day 1 | Assembly           | https://academic.oup.com/bioinformatics/article/32/14/2103/1742895/ <br> https://www.ncbi.nlm.nih.gov/pubmed/27742661 |
 | Day 2 | Indexed Alignment  | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4108431/pdf/nihms-605372.pdf <br> https://www.ncbi.nlm.nih.gov/pubmed/19451168 |
 | Day 4 | Pan-genomics       | https://www.ncbi.nlm.nih.gov/pubmed/27769991 <br> https://www.ncbi.nlm.nih.gov/pubmed/30125266  |
-
-
-### Travel instructions
-You can find instructions for travel [here](https://iamap.tudelft.nl/en/poi/mathematics-computer-science-eemcs/)
-
 
 
 ## During the course
