@@ -51,7 +51,7 @@ You can find instructions for travel [here](https://iamap.tudelft.nl/en/poi/math
 
 |Day 4  | Pan-genomics         |
 |------:|-----------------------------|
-|  8:45 | Welcome                     |
+|  8:55 | Welcome                     |
 |  9:00 | Lecture                     |
 | 10:30 | Break                       |
 | 11:00 | Computer exercises          |
