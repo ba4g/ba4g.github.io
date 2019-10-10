@@ -107,7 +107,7 @@ Exercises for Day 4 - Pangenomics will be shared during the course.
 ### Project
 You can find detailed instructions for the project [here][proj].
 
-[unix]: https://github.com/ba4g/ba4g.github.io/blob/master/unix-intro.html
+[unix]: https://ba4g.github.io/unix-intro.html
 [lit]: https://ba4g.github.io/literature-review.html
 [ex]: http://rosalind.info/classes/614/
 [proj]: https://ba4g.github.io/project-instructions.html
