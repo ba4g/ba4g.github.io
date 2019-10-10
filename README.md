@@ -32,7 +32,7 @@ You can find instructions for travel [here](https://iamap.tudelft.nl/en/poi/math
 |  8:55 | Welcome                     |
 |  9:00 | Lecture                     |
 | 10:30 | Break                       |
-| 11:00 | Programming exercises - [Rosalind][ex]||
+| 11:00 | Programming exercises - [Rosalind][ex]|
 | 12:30 | Lunch                       |
 | 13:30 | Literature seminar - [papers][lit]|
 | 15:00 | Break                       |
