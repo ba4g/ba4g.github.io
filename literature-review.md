@@ -1,4 +1,5 @@
 # Selected papers - for literature review sessions 
+
 | Day&emsp;| Topic | Papers | 
 |------|-----------------------------|--|
 | Day 1 | Assembly           | [Minimap and miniasm: fast mapping and de novo assembly for noisy long sequences][1] <br> [The present and future of de novo whole-genome assembly][2] |
