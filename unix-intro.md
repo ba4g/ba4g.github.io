@@ -5,7 +5,7 @@
 1. Instructions, file names, arguments, options, etc. are all case sensitive
 2. Press {{Key press|Enter}} at the end of an instruction
 3. TAB-completion will save time, use it!
-4. Copy-paste from/to terminal is {{Key press|Ctrl|Shift|c}} and {{Key press|Ctrl|Shift|v}}
+4. Copy-paste from/to terminal is <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>c</kbd> and <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>v</kbd>
 
 ## Concepts
 ### Command-line and shell
@@ -74,7 +74,7 @@ Clears the window and the line buffer
 ~$ reset 
 ```
 Reset the terminal <br>
-press `Ctrl + c` to terminate the currently running program
+press <kbd>Ctrl</kbd> + <kbd>c</kbd> to terminate the currently running program
 ## Getting help
 If you are at any point uncertain how to use a certain command or what the arguments are, there are several ways to find that out.
 Using the build in *man*ual pages.
@@ -179,7 +179,7 @@ Edits the specified file, if they file does not exist, it will be created when s
 ``` bash
  ~$ nano small_file.txt
  ```
-This will open the nano text-editor, type some text, press {{key press|Ctrl|x}} to quit, reply {{key press|y}} when asked to save changes.
+This will open the nano text-editor, type some text, press <kbd>Ctrl</kbd> + <kbd>x</kbd> to quit, reply <kbd>y</kbd> when asked to save changes.
 ``` bash
 ~$ mkdir <directory name>
 ```
