@@ -66,7 +66,7 @@ You can find instructions for travel [here](https://iamap.tudelft.nl/en/poi/math
 |  8:55 | Welcome                     |
 |  9:00 | Project work - [instructions][proj]|
 | 12:30 | Lunch                       |
-| 13:30 | Talk\: Erwin Datema |
+| 13:30 | Talk\: Erwin Datema (Keygene) - Algorithm development for plant pan-genomics |
 | 14:10 | Talk\: Sandra Smit  |
 | 14:30 | Talk\: Thomas Abeel         |
 | 14:50 | Quick break                 |
