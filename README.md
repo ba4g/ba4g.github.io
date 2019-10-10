@@ -15,16 +15,16 @@ You can find instructions for travel [here](https://iamap.tudelft.nl/en/poi/math
 
 ## Schedule
 
-|Day 1  | Genome assembly      |
+|Day 1| Genome assembly      |
 |------:|-----------------------------|
 |  8:30 | Welcome                     |
 |  9:00 | Lecture                     |
 | 10:30 | Break                       |
-| 11:00 | Programming exercises       |
+| 11:00 | Programming exercises - [Rosalind][ex]|
 | 12:30 | Lunch                       |
-| 13:30 | Literature seminar          |
+| 13:30 | Literature seminar - [papers][lit]|
 | 15:00 | Break                       |
-| 15:30 | Programming exercises       |
+| 15:30 | Programming exercises - [Rosalind][ex]|
 | 17:30 | Closing                     |
 
 |Day 2  | Read alignment       |
@@ -32,18 +32,18 @@ You can find instructions for travel [here](https://iamap.tudelft.nl/en/poi/math
 |  8:55 | Welcome                     |
 |  9:00 | Lecture                     |
 | 10:30 | Break                       |
-| 11:00 | Programming exercises       |
+| 11:00 | Programming exercises - [Rosalind][ex]||
 | 12:30 | Lunch                       |
-| 13:30 | Literature seminar          |
+| 13:30 | Literature seminar - [papers][lit]|
 | 15:00 | Break                       |
-| 15:30 | Programming exercises       |
+| 15:30 | Programming exercises - [Rosalind][ex]|
 | 17:00 | Exercise review             |
 | 17:30 | Closing                     |
 
 |Day 3  |Project              |
 |------:|-----------------------------|
 |  8:55 | Welcome                     |
-|  9:00 | Project introduction        |
+|  9:00 | Project introduction [instructions][proj]|
 |  9:30 | Project work                |
 | 12:30 | Lunch                       |
 | 13:30 | Project work                |
@@ -56,7 +56,7 @@ You can find instructions for travel [here](https://iamap.tudelft.nl/en/poi/math
 | 10:30 | Break                       |
 | 11:00 | Computer exercises          |
 | 12:30 | Lunch                       |
-| 13:30 | Literature seminar          |
+| 13:30 | Literature seminar - [papers][lit]|
 | 15:00 | Break                       |
 | 15:30 | Computer exercises          |
 | 17:30 | Closing                     |
@@ -64,13 +64,13 @@ You can find instructions for travel [here](https://iamap.tudelft.nl/en/poi/math
 |Day 5  | Putting it all together |
 |------:|-----------------------------|
 |  8:55 | Welcome                     |
-|  9:00 | Project work                |
+|  9:00 | Project work [instructions][proj]|
 | 12:30 | Lunch                       |
 | 13:30 | Talk\: Erwin Datema |
 | 14:10 | Talk\: Sandra Smit  |
 | 14:30 | Talk\: Thomas Abeel         |
 | 14:50 | Quick break                 |
-| 15:00 | State-of-the-art literature presentations -- Wrap-up |
+| 15:00 | State-of-the-art literature presentations [papers][lit] -- Wrap-up |
 | 16:00 | Borrel                      |
 | 17:00 | The End                     |
 
@@ -91,23 +91,20 @@ On day 1 and 2, the course covers chapters 3 and 9 from the book ["Bioinformatic
 
 ### Literature
 On days 1,2 and 4, we will have literature review sessions. For each day we selected a small number of papers. One is a more methods oriented, while the other is a review article. You are expected to read both these papers thoroughly. For the methods paper we expect you are able to discuss the method details.
-
-| Day | Topic | Papers | 
-|------|-----------------------------|--|
-| Day 1 | Assembly           | https://academic.oup.com/bioinformatics/article/32/14/2103/1742895/ <br> https://www.ncbi.nlm.nih.gov/pubmed/27742661 |
-| Day 2 | Indexed Alignment  | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4108431/pdf/nihms-605372.pdf <br> https://www.ncbi.nlm.nih.gov/pubmed/19451168 |
-| Day 4 | Pan-genomics       | https://www.ncbi.nlm.nih.gov/pubmed/27769991 <br> https://www.ncbi.nlm.nih.gov/pubmed/30125266  |
-
+You can find the list of papers we will be reading [here][lit].
 
 ## During the course
 
 ### Exercises 
 Exercises for Day 1 and Day 2 of the course are hosted on Rosalind. You first need to [enroll in the course](http://rosalind.info/classes/enroll/b694ec3604/).
 
-After you have enrolled in the course, you can also [directly access it](http://rosalind.info/classes/614/) 
+After you have enrolled in the course, you can also [directly access it][ex] 
 
 Exercises for Day 4 - Pangenomics will be shared during the course.
 
 ### Project
-You can find detailed instructions for the project [here](https://ba4g.github.io/project-instructions.html).
+You can find detailed instructions for the project [here][proj].
 
+[lit]: https://ba4g.github.io/literature-review.html
+[ex]: http://rosalind.info/classes/614/
+[proj]: https://ba4g.github.io/project-instructions.html
