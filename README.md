@@ -108,5 +108,6 @@ After you have enrolled in the course, you can also [directly access it](http://
 
 Exercises for Day 4 - Pangenomics will be shared during the course.
 
-
+### Project
+You can find detailed instructions for the project [here](https://ba4g.github.io/project-instructions.html).
 
