@@ -4,7 +4,7 @@ _BioSB 2019 Project Instructions - October 14-18_
 
 You are given long read sequences of _E. coli_ in FASTQ format as well as short reads; in this project you are asked to implement an assembly pipeline comprising two Python scripts described below.
 
-## - Script 1
+## Script 1
 Implement the minimap algorithm for read alignment, and miniasm algorithm for assembling the genome graph. 
 
 __Input:__ Long reads in FASTQ format
@@ -52,7 +52,7 @@ Now, you have two options for writing _Script 1_:
 _HINT: If you choose to take the second route, you have to **modify your first function** to generate a **PAF file** as output because the miniasm tool only accepts PAF as input for assembly. See [author's webpage for more details on PAF](https://lh3.github.io/minimap2/minimap2.html#10)_
 
 
-## - Script 2
+## Script 2
 Implement [Burrows-Wheeler Alignment tool (BWA)](https://www.ncbi.nlm.nih.gov/pubmed/19451168) to align the given short sequencing reads against the assembly you obtained from _Script 1_. Identify SNPs in your alignment, and correct them to obtain the final, "polished" assembly. 
 
 __Input:__ Genome assembly in FASTA format and short reads 
