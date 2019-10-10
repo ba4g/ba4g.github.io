@@ -85,6 +85,8 @@ Requirements:
 Desired (but not required): 
 * Linux kernel system (Mac, Windows 10 or Linux based OS)
 
+__NOTE:__ For those who are not familiar with unix shell, [click here][unix] for a quick tutorial.
+
 ### Course book
 On day 1 and 2, the course covers chapters 3 and 9 from the book ["Bioinformatics Algorithms - an active learning approach"](http://bioinformaticsalgorithms.com/). Having these chapters at hand during the programming exercises will prove very helpful.
 
@@ -105,6 +107,7 @@ Exercises for Day 4 - Pangenomics will be shared during the course.
 ### Project
 You can find detailed instructions for the project [here][proj].
 
+[unix]: https://github.com/ba4g/ba4g.github.io/blob/master/unix-intro.html
 [lit]: https://ba4g.github.io/literature-review.html
 [ex]: http://rosalind.info/classes/614/
 [proj]: https://ba4g.github.io/project-instructions.html
