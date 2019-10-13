@@ -17,11 +17,13 @@ Your script should consist of __2 main functions__: first one for aligning with 
 
  1.1. Computing minimizers
  >Recall: a (*w*, *k*) minimizer of a string *s* is the smallest kmer in a surrounding window of _w_ consecutive kmers. 
- > ![Algorithm 1](https://i.imgur.com/azgZ4zR.gif) ![Algorithm 2](https://i.imgur.com/C1RwrPX.gif)
+>
+> ![Algorithm 1](https://i.imgur.com/azgZ4zR.gif) ![Algorithm 2](https://i.imgur.com/C1RwrPX.gif)
  
  1.2. Indexing
  > Using the output from _Algorithm 1_ you should make a hash table for minimizers of all target sequences:  Key is the minimizer hash and the value is a set of target sequence index, the position of the minimizer and the strand.
- > ![Algoirthm 3](https://i.imgur.com/1qfoNEH.gif)
+>
+> ![Algoirthm 3](https://i.imgur.com/1qfoNEH.gif)
 
 _Hint: When you are implementing, you should append minimizers to an array (includes minimizer sequence and its position), and then sort this array once you have collected all the minimizers._
 
@@ -54,8 +56,7 @@ Once you complete steps 2.1 and 2.2 you should have an assembly graph. Now, you 
 
 > Recall: In an assembly graph, an edge *v* &rarr; *w* is **transitive** if there exsits *v* &rarr; *u* and *u* &rarr; *w*. A vertex *v* is a **tip** if deg<sub>*v*</sub><sup>+</sup> = 0 and deg<sub>*v*</sub><sup>-</sup> > 0. A **bubble** is a directed acyclic subgraph with a single source *v* and a single sink *w* having at least two paths between *v* and *w*, and without connecting the rest of the graph. The bubble is **tight** if deg<sub>*v*</sub><sup>+</sup> > 1 and deg<sub>*v*</sub><sup>-</sup> > 1
 > 
-
-![Algorithm 6](https://i.imgur.com/WOqOvaw.gif)
+>![Algorithm 6](https://i.imgur.com/WOqOvaw.gif)
 
 2.4. Generating unitig sequences <br/>
 Intuitively, a unitig is a maximal path on which adjacent vertices can be _unambiguously merged_ without affecting the connectivity of the original assembly graph.

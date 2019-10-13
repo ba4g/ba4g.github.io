@@ -6,8 +6,8 @@
 | Day 2 | Indexed Alignment  | [Genome structural variation discovery and genotyping][3] <br> [Fast and accurate short read alignment with Burrows-Wheeler transform][4] |
 | Day 4 | Pan-genomics       | [Computational pan-genomics: status, promises and challenges][5] <br> [Variation graph toolkit improves read mapping by representing genetic variation in the reference][6] |
 
-# Some recent publications - for state of the art literature presentations
-Here is a curated list of some suggested papers you can choose for your state of the art literature presentations. 
+# Some other recent publications
+A non-exhaustive list of suggested papers 
 
 
 
