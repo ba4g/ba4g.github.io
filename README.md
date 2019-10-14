@@ -96,6 +96,10 @@ You can find the list of papers we will be reading [here][lit].
 
 ## During the course
 
+### Course material
+
+https://surfdrive.surf.nl/files/index.php/s/4fYFqUG76Fr7wZX
+
 ### Exercises 
 Exercises for Day 1 and Day 2 of the course are hosted on Rosalind. You first need to [enroll in the course](http://rosalind.info/classes/enroll/b694ec3604/).
 
