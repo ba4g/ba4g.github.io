@@ -47,7 +47,7 @@ Your script should <br/>
 (2) convert the number `60` to `9473421487448830983`<br/>
 
 ### 2. Finding minimizers ###
-For sequence input `"GATTACAACT"`, *k* = 4 and *w* = 3 your script should find the minimizers:
+For sequence input `"GATTACAACT"`, *w* = 4 and *k* = 3 your script should find the minimizers:
 ```python
 (1396078460937419741, 6, 1)
 (2859083004982788208, 3, 1)
