@@ -6,7 +6,16 @@ You are given long read sequences of _E. coli_ in FASTQ format as well as short 
 
 ## Test data
 
-1. You can test your codes on the [small test dataset with 3 reads](https://github.com/ba4g/ba4g.github.io/blob/master/reallysmall.fastq) <br/> *HINT: Use k = 10 and w = 3*
+1. You can test your codes on the [small test dataset with 3 reads](https://github.com/ba4g/ba4g.github.io/blob/master/reallysmall.fastq) <br/> *HINT: Use k = 10 and w = 3* 
+
+Correct output (using the same notation as in *Algorithm 4* from the paper:
+```python
+{0: [((0, 0, 0, 4), (0, 0, 0, 16))], 2: [((2, 1, 12, 6), (2, 1, 20, 10))]}
+{1: [((1, 0, 0, 5), (1, 0, 0, 17))]}
+{2: [((2, 0, 0, 3), (2, 0, 0, 14))]}
+```
+I.e., `(0, 0, 0, 4)` = (*t*, *r*, *c*, *i'*) which translates to (read #, strand, distance, position), see *Algorithm 4* below 
+>![Algorithm 4](https://i.imgur.com/01keMVE.gif)
 
 2. A bigger sample test is also [on the github page here](https://github.com/ba4g/ba4g.github.io/blob/master/Sample.fastq) 
 
