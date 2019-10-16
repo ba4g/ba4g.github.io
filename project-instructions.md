@@ -81,6 +81,8 @@ _Hint: When you are implementing, you should append minimizers to an array (incl
 
 _HINT: In implementation, set thresholds on the size of the subset (size is 4 by default) and the number of matching bases in the subset to filter poor mappings (100 for read overlapping)._
 
+_AN EVEN BETTER HINT: To fin the "maximal colinear subset", instead of implementing the algorithm from scratch you can [use this answer on stackoverflow](https://stackoverflow.com/questions/3992697/longest-increasing-subsequence)_
+
 ### 2. Miniasm
 
 > Recall: assembly graphs are directed acyclic graphs whose vertices are substrings, and the edges between two vertices represent their overlap relationship.
