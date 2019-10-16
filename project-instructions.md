@@ -1,14 +1,33 @@
 _BioSB 2019 Project Instructions - October 14-18_
 
-# Problem statement
+# Problem statement #
 
 You are given long read sequences of _E. coli_ in FASTQ format as well as short reads; in this project you are asked to implement an assembly pipeline comprising two Python scripts described below.
 
-## Testing your code
+### Script 1 ###
+Implement the minimap algorithm for read alignment, and miniasm algorithm for assembling the genome graph. 
 
-### Test data
+__Input:__ Long reads in FASTQ format <br/>
+__Output:__ Genome assembly in FASTA format
 
-1. You can test your codes on the [small test dataset with 3 reads](https://github.com/ba4g/ba4g.github.io/blob/master/reallysmall.fastq) <br/> *HINT: Use k = 10 and w = 3* 
+### Script 2 ###
+Implement [Burrows-Wheeler Alignment tool (BWA)](https://www.ncbi.nlm.nih.gov/pubmed/19451168) to align the given short sequencing reads against the assembly you obtained from _Script 1_. Identify SNPs in your alignment, and correct them to obtain the final, "polished" assembly. 
+
+__Input:__ Genome assembly in FASTA format and short reads  <br/>
+__Output:__ Improved genome assembly in FASTA format 
+ 
+ _HINT: Use your script for Burrows Wheels transform exercise from Chapter 9 yesterday_
+ 
+ __IMPORTANT NOTE:__ For those who could not obtain an assembly output using their _Script 1_, do let us know, we will provide you with the assembly file. 
+
+---
+
+# Testing your code #
+
+## Test data
+
+### 1. You can test your codes on the [small test dataset with 3 reads](https://github.com/ba4g/ba4g.github.io/blob/master/reallysmall.fastq) ###
+*HINT: Use k = 10 and w = 3* 
 
 Correct output (using the same notation as in *Algorithm 4* from the paper:
 ```python
@@ -19,21 +38,17 @@ Correct output (using the same notation as in *Algorithm 4* from the paper:
 I.e., `(0, 0, 0, 4)` = (*t*, *r*, *c*, *i'*) which translates to (read #, strand, distance, position), see *Algorithm 4* below 
 >![Algorithm 4](https://i.imgur.com/01keMVE.gif)
 
-2. A bigger sample test is also [on the github page here](https://github.com/ba4g/ba4g.github.io/blob/master/Sample.fastq) 
+### A bigger sample test is also [on the github page here](https://github.com/ba4g/ba4g.github.io/blob/master/Sample.fastq) ###
 
-### Intermediate tests ### 
+## Intermediate tests ##
 
 Your script should <br/>
 (1) convert the string input `TTA` to the number `60` <br/>
 (2) convert the number `60` to `9473421487448830983`<br/>
 
+---
 
-## Script 1
-Implement the minimap algorithm for read alignment, and miniasm algorithm for assembling the genome graph. 
-
-__Input:__ Long reads in FASTQ format
-
-__Output:__ Genome assembly in FASTA format
+# Some useful notes for Script 1 #
 
 Your script should consist of __2 main functions__: first one for aligning with minimap and the second one for assembling with miniasm. Here is a quick recap of both methods from the [corresponding paper](https://academic.oup.com/bioinformatics/article/32/14/2103/1742895).
 
@@ -91,21 +106,9 @@ Intuitively, a unitig is a maximal path on which adjacent vertices can be _unamb
 (2) Implement minimap from scratch only, and use the _miniasm tool_ provided by the authors
 
 _HINT: If you choose to take the second route, you have to **modify your first function** to generate a **PAF file** as output because the miniasm tool only accepts PAF as input for assembly. See [author's webpage for more details on PAF](https://lh3.github.io/minimap2/minimap2.html#10)_
-
-
-## Script 2
-Implement [Burrows-Wheeler Alignment tool (BWA)](https://www.ncbi.nlm.nih.gov/pubmed/19451168) to align the given short sequencing reads against the assembly you obtained from _Script 1_. Identify SNPs in your alignment, and correct them to obtain the final, "polished" assembly. 
-
-__Input:__ Genome assembly in FASTA format and short reads 
-
-__Output:__ Improved genome assembly in FASTA format 
- 
- _HINT: Use your script for Burrows Wheels transform exercise from Chapter 9 yesterday_
- 
- __IMPORTANT NOTE:__ For those who could not obtain an assembly output using their _Script 1_, do let us know, we will provide you with the assembly file. 
  
  ---
-# Script Submission
+# Script Submission #
 
 You are required to submit both of your scripts to the shared __[Dropbox folder](https://www.dropbox.com/request/q6GqOe3Vjk3UvcBnxCDL
 )__ of this course. Your submission must include:
@@ -113,7 +116,7 @@ You are required to submit both of your scripts to the shared __[Dropbox folder]
 1. __Sufficient__ documentation on how to run the script 
 2. Written comments that are __detailed__ enough to understand your scripts
 
-**DEADLINE: November 18**
+## DEADLINE: November 18 ##
 
 
 <center> <b> GOOD LUCK!! </b> </center>
