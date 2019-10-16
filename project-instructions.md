@@ -4,6 +4,7 @@ _BioSB 2019 Project Instructions - October 14-18_
 
 You are given long read sequences of _E. coli_ in FASTQ format as well as short reads; in this project you are asked to implement an assembly pipeline comprising two Python scripts described below.
 
+## Test data
 2 read example: https://github.com/ba4g/ba4g.github.io/blob/master/Sample.fastq
 
 ## Script 1
