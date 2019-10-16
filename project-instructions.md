@@ -24,7 +24,7 @@ __Output:__ Improved genome assembly in FASTA format
 
 # Testing your code #
 
-## Test data
+## Test data ##
 
 ### 1. You can test your codes on the [small test dataset with 3 reads](https://github.com/ba4g/ba4g.github.io/blob/master/reallysmall.fastq) ###
 *HINT: Use k = 10 and w = 3* 
@@ -35,16 +35,23 @@ Correct output (using the same notation as in *Algorithm 4* from the paper:
 {1: [((1, 0, 0, 5), (1, 0, 0, 17))]}
 {2: [((2, 0, 0, 3), (2, 0, 0, 14))]}
 ```
-I.e., `(0, 0, 0, 4)` = (*t*, *r*, *c*, *i'*) which translates to (read #, strand, distance, position), see *Algorithm 4* below 
->![Algorithm 4](https://i.imgur.com/01keMVE.gif)
+I.e., `(0, 0, 0, 4)` = (*t*, *r*, *c*, *i'*) which translates to (read #, strand, distance, position), see [*Algorithm 4*](https://i.imgur.com/01keMVE.gif)
 
-### A bigger sample test is also [on the github page here](https://github.com/ba4g/ba4g.github.io/blob/master/Sample.fastq) ###
+### 2. A bigger sample test is also [on the github page here](https://github.com/ba4g/ba4g.github.io/blob/master/Sample.fastq) ###
 
 ## Intermediate tests ##
 
+### 1. Hash function ###
 Your script should <br/>
 (1) convert the string input `TTA` to the number `60` <br/>
 (2) convert the number `60` to `9473421487448830983`<br/>
+
+### 2. Finding minimizers ###
+For sequence input `"GATTACAACT"`, *k* = 4 and *w* = 3 your script should find the minimizers:
+```python
+(1396078460937419741, 6, 1)
+(2859083004982788208, 3, 1)
+```
 
 ---
 
