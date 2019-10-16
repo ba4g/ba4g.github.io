@@ -5,7 +5,10 @@ _BioSB 2019 Project Instructions - October 14-18_
 You are given long read sequences of _E. coli_ in FASTQ format as well as short reads; in this project you are asked to implement an assembly pipeline comprising two Python scripts described below.
 
 ## Test data
-2 read example: https://github.com/ba4g/ba4g.github.io/blob/master/Sample.fastq
+
+1. You can test your codes on the [small test dataset with 3 reads](https://github.com/ba4g/ba4g.github.io/blob/master/reallysmall.fastq) <br/> *HINT: Use k = 10 and w = 3*
+
+2. A bigger sample test is also [on the github page here](https://github.com/ba4g/ba4g.github.io/blob/master/Sample.fastq) 
 
 ## Script 1
 Implement the minimap algorithm for read alignment, and miniasm algorithm for assembling the genome graph. 
