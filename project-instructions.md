@@ -31,9 +31,9 @@ __Output:__ Improved genome assembly in FASTA format
 
 Correct output (using the same notation as in *Algorithm 4* from the paper:
 ```python
-{0: [((0, 0, 0, 3), (0, 0, 0, 20))], 2: [((2, 1, 12, 6), (2, 1, 28, 14))]}
-{1: [((1, 0, 0, 3), (1, 0, 0, 19))]}
-{0: [((0, 1, 20, 10), (0, 1, 28, 14))], 2: [((2, 0, 0, 0), (2, 0, 0, 20))]}
+{0: [((0, 0, 0, 0), (0, 0, 0, 20))], 2: [((2, 1, 12, 6), (2, 1, 28, 14))]}
+{1: [((1, 0, 0, 1), (1, 0, 0, 19))]}
+{0: [((0, 1, 12, 6), (0, 1, 28, 14))], 2: [((2, 0, 0, 0), (2, 0, 0, 20))]}
 ```
 I.e., `(0, 0, 0, 4)` = (*t*, *r*, *c*, *i'*) which translates to (read #, strand, distance, position), see [*Algorithm 4*](https://i.imgur.com/01keMVE.gif)
 
