@@ -24,7 +24,8 @@ You can find instructions for travel [here](https://iamap.tudelft.nl/en/poi/appl
 | 10:30 | Break                       |
 | 11:00 | Programming exercises - [Rosalind][ex]|
 | 12:30 | Lunch                       |
-| 13:30 | Literature seminar - [papers][lit]|
+| 13:30 | Guest speaker               |
+| 14:15 | Lecture / Q&A               |
 | 15:00 | Break                       |
 | 15:30 | Programming exercises - [Rosalind][ex]|
 | 17:30 | Closing                     |
@@ -36,7 +37,8 @@ You can find instructions for travel [here](https://iamap.tudelft.nl/en/poi/appl
 | 10:30 | Break                       |
 | 11:00 | Programming exercises - [Rosalind][ex]|
 | 12:30 | Lunch                       |
-| 13:00 | Literature seminar - [papers][lit]|
+| 13:30 | Guest speaker               |
+| 14:15 | Lecture / Q&A               |
 | 15:00 | Break                       |
 | 15:30 | Programming exercises - [Rosalind][ex]|
 | 17:00 | Exercise review             |
@@ -58,7 +60,8 @@ You can find instructions for travel [here](https://iamap.tudelft.nl/en/poi/appl
 | 10:30 | Break                       |
 | 11:00 | Computer exercises          |
 | 12:30 | Lunch                       |
-| 13:30 | Literature seminar - [papers][lit]|
+| 13:30 | Guest speaker               |
+| 14:15 | Lecture / Q&A               |
 | 15:00 | Break                       |
 | 15:30 | Computer exercises          |
 | 17:30 | Closing                     |
