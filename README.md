@@ -99,7 +99,6 @@ On day 1 and 2, the course covers chapters 3 and 9 from the book ["Bioinformatic
 https://surfdrive.surf.nl/files/index.php/s/5CbMsLFPsLGgRmW
 
 ### Exercises 
-*To be updated*
 Exercises for Day 1, Day 2 and Day 4 of the course are hosted on Rosalind. You first need to [enroll in the course](https://rosalind.info/classes/enroll/b694ec3604/).
 
 After you have enrolled in the course, you can also [directly access it][ex] 
