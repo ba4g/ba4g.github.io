@@ -72,9 +72,7 @@ Travel instructions will be provided
 | 10:30 | Project work - [instructions][proj] |
 | 12:30 | Lunch                               |
 | 13:30 | Project presentations               |
-| 15:15 | Wrap-up                             |
-| 16:00 | Borrel                              |
-| 17:00 | The End                             |
+| 15:00 | Wrap-up - The End                   |
 
 ## Preparation
 ### Computer requirements
