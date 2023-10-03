@@ -5,11 +5,12 @@ October 9-13, 2023, Delft
 Coordinators: Thomas Abeel (TU Delft), Sandra Smit (WUR) and Jasmijn Baaijens (TU Delft) 
 
 ## Location
-Delft University of Technology campus
+TU Delft campus, building 66 “The Fellowship”, Kluyverweg 5, Delft. 
+Room 2.180 (“vergaderzaal 2”) (second floor; not Instruction Room 2)
 
 
 ### Travel instructions
-Travel instructions will be provided  
+[Travel instructions](https://spacefinder.tudelft.nl/nl/gebouwen/66-fellow/)
 
 
 
@@ -47,8 +48,10 @@ Travel instructions will be provided
 |  8:55 | Welcome                     |
 |  9:00 | Project introduction [instructions][proj]|
 |  9:30 | Project work                |
+| 10:30 | Break                       |
 | 12:30 | Lunch                       |
 | 13:30 | Project work                |
+| 15:00 | Break                       |
 | 17:30 | Closing                     |
 
 |Day 4  | Pan-genomics         |
