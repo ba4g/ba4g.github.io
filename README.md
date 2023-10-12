@@ -99,7 +99,7 @@ On day 1 and 2, the course covers chapters 3 and 9 from the book ["Bioinformatic
 ### Course material
 https://surfdrive.surf.nl/files/index.php/s/5CbMsLFPsLGgRmW
 
-<b> Slides from Sandra's lecture</b></center>
+<b> Slides from Sandra's lecture</b>
 [Graph Algorithms](https://github.com/ba4g/ba4g.github.io/blob/master/BA4G_graph_algorithms.pdf)
 [Pangenomes](https://github.com/ba4g/ba4g.github.io/blob/master/BA4G_pangenomics.pdf)
 
