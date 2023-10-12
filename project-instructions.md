@@ -119,3 +119,7 @@ _HINT: If you choose to take the second route, you have to **modify your first f
 
 <center> <b> GOOD LUCK!! </b> </center>
 
+<center> <b> Slides from Sandra's lecture</b></center>
+[Graph Algorithms](https://github.com/ba4g/ba4g.github.io/blob/master/BA4G_graph_algorithms.pdf)
+[Pangenomes](https://github.com/ba4g/ba4g.github.io/blob/master/BA4G_pangenomics.pdf)
+
